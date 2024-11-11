@@ -6,7 +6,7 @@
 Computer_Architecture
 
 ### 운영체제
-Operating_System
+[[Operating_System]]
 
 ### 자료구조
 Data Structure
