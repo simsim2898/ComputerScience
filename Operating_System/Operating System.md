@@ -5,7 +5,7 @@
 
 
 ### part1 개관
-[[chapter1 서론]]
+[[ComputerScience/Operating_System/chapter1 서론/chapter1 서론]]
 [[chapter2 운영체제 구조]]
 
 ### part2 관리
