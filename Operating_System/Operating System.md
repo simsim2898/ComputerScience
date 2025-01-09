@@ -5,13 +5,13 @@
 
 
 ### part1 개관
-[[ComputerScience/Operating_System/chapter1 서론/chapter1 서론]]
+[[ComputerScience/Operating_System/chapter1 서론/chapter1 서론|chapter1 서론]]
 [[chapter2 운영체제 구조]]
 
 ### part2 관리
-chapter3 프로세스
-chapter4 스레드와 병행성
-chapter5 CPU스케줄링
+[[chapter3 프로세스]]
+[[chapter4 스레드와 병행성]]
+[[chapter5 CPU 스케줄링]]
 ### part3 프로세스 동기화
 chapter6 동기화 도구들
 chapter7 동기화 예제 고착 상태
