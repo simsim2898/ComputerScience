@@ -17,10 +17,10 @@
 5. [[해싱]]
 6. [[힙]]
 ## 자료구조 트리
-트리 개념
-트리
+[[트리 개념]]
+[[트리]]
 Full-Binary-Tree
 Perfect-Binary-Tree
 complete-tree
 balanaced-Binary-Tree
-이진검색트리
+이진 검색 트리
