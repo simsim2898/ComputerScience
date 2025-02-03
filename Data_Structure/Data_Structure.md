@@ -19,8 +19,8 @@
 ## 자료구조 트리
 [[트리 개념]]
 [[트리]]
-Full-Binary-Tree
-Perfect-Binary-Tree
-complete-tree
-balanaced-Binary-Tree
-이진 검색 트리
+[[완전 이진 트리]] Full-Binary-Tree
+[[Perfect-Binary-Tree]] 완벽한 이진트리
+[[complete-tree]]
+[[balanaced-Binary-Tree]]
+[[이진 검색 트리(BST)]]
